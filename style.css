@@ -1,7 +1,7 @@
 
 @font-face{
     font-family: shinFont;
-    src: url(fuentes/Outfit-VariableFont_wght.ttf);
+    src: url(/fuentes/Outfit-VariableFont_wght.ttf);
 }
 body{
     margin: 0rem;
