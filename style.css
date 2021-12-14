@@ -1,7 +1,7 @@
 
 @font-face{
     font-family: shinFont;
-    src: url(/fuentes/Outfit-VariableFont_wght.ttf);
+    src: url(./fuentes/Outfit-VariableFont_wght.ttf);
 }
 body{
     margin: 0rem;
@@ -40,10 +40,10 @@ body{
     background-color: hsla(178, 100%, 50%, 0.527);
     opacity: 0;
     -webkit-transition: all 1s ease;
-	-moz-transition: all 1s ease;
-	-ms-transition: all 1s ease;
-	-o-transition: all 1s ease;
-	transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
 }
 .icon-container:hover{
     opacity: 0.9;
@@ -54,10 +54,10 @@ body{
     top: 117px;
     left: 117px;
     -webkit-transition: all 1s ease;
-	-moz-transition: all 1s ease;
-	-ms-transition: all 1s ease;
-	-o-transition: all 1s ease;
-	transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
 } 
 .equilibrium-link{
     display: block;
@@ -135,10 +135,10 @@ body{
     color: hsla(0, 0%, 100%, 0.78);
     text-decoration: none;
     -webkit-transition: all 1s ease;
-	-moz-transition: all 1s ease;
-	-ms-transition: all 1s ease;
-	-o-transition: all 1s ease;
-	transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
 }
 .author-link:hover{
     color: hsl(178, 100%, 50%);
