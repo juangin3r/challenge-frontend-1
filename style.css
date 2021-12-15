@@ -70,10 +70,10 @@ body{
     -ms-transition: all 1s ease;
     -o-transition: all 1s ease;
     transition: all 1s ease;
-    cursor: pointer;
 }
 .equilibrium:hover{
     color: hsl(178, 100%, 50%);
+    cursor: pointer;
 }
 .first-paragraph{
     margin: 0rem;  
