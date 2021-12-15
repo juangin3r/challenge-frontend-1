@@ -132,7 +132,7 @@ body{
 }
 .author-link{
     font-weight: 100;
-    color: hsla(0, 0%, 100%, 0.78);
+    color: hsl(0, 0%, 100%);
     text-decoration: none;
     -webkit-transition: all 1s ease;
     -moz-transition: all 1s ease;
